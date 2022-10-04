@@ -1,0 +1,6 @@
+com\trafimchuk\rest\EventApi.class
+com\trafimchuk\rest\EventModelAssembler.class
+com\trafimchuk\rest\SwaggerConfig.class
+com\trafimchuk\rest\App.class
+com\trafimchuk\rest\EventModel.class
+com\trafimchuk\rest\EventController.class
